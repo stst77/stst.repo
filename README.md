@@ -4,25 +4,26 @@
 
 
 
-معلومات ملف Packages بالاسفل 
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> عنوان السورس</title>
+</head>
+<body>
+<h1>اسم السورس </h1>
+<div ><img src="CydiaIcon.png" alt="" style="width:100px"; > </div>
 
+<div class="name"><p>وصف السورس</p></div>
 
-Package: معرف الاداة 
-Version: الاصدار
-Architecture: iphoneos-arm
-Maintainer: اكتب اسمك
-Depends: المتطلبات 
-Conflicts: التعارضات
-Filename: موقع الملف
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
-Section: Tweaks
-Depiction: رابط صفحة الوصف 
-Name: اسم  الاداه 
+<div><ul class="btns">
 
+<li><div class="cydia"><a href="cydia://url/https://cydia.saurik.com/api/share#?source=***"><button class="cydiabtn">CYDIA</button></a></div></li>
 
- تحط سطر فراغ  تحت المعلومات كل اداة   
- 
- هنا تبدا معلومات  الاداة الثانية 
+<li><div class="sileo"> <a href="sileo://source/***"><button class="sileobtn">SILEO</button> </a></div></li>
+
+<li><div class="zebra"><a href="zbra://sources/add/***/"><button class="zebrabtn">ZEBRA</button> </a></div></li>
+
+</ul></div>
+</body>
+</html>
