@@ -1,14 +1,14 @@
-Package: com.firepo.hmodeis.apphack
-Version: 3.0-1
+Package: معرف الاداة 
+Version: الاصدار
 Architecture: iphoneos-arm
-Maintainer: stst	
-Depends:   mobilesubstrate, ws.hbang.common	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/	com.firepo.hmodeis.apphack
-Size: 1670732	
-MD5sum: 72a6cfe8a2fc0d659a733290dd3062b0	
-SHA1: f6564873f8b2b623d4c4180baa4b98b60ec2507c	
-SHA256: 	ad534348422060ab626632bb3baef42e215fcc39af4341f7547fcb598dafdd6f
-Section: Tweaks	Section: Tweaks
-Depiction: https://stst77.github.io/stst.repo/Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: Apps Hacks
+Maintainer: اكتب اسمك
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه
