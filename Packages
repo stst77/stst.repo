@@ -1,3 +1,17 @@
+Package: x7mii.vip.shuffle
+Version: 1.5.9
+Architecture: iphoneos-arm
+Maintainer:  @X1lyy <bojory111@gmail.com>
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Size:2324
+MD5sum:924b376a71d3b08fd7ff23aaefaa54bd
+SHA1:07d6a600a5711058f5b5ac2f3a6a1038fdeeab9d
+SHA256:7e0638658c6f7c390ec3c236bb805926c535d34c509b5a1e1639db1dbcc5e4af
+Section: Tweaks
+Depiction: https://stst77.github.io/stst.repo/
+Name: Shuffle
+
 Package: com.alone.little11
 Version: 1.4.1
 Architecture: iphoneos-arm
