@@ -1,3 +1,17 @@
+Package: com.alone.little11
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: stst
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Size:448
+MD5sum:e2d62252bb71dc07a85d7598daa56f41
+SHA1:863575cc25256ee99e5147959d9d6b4a45418b98
+SHA256:99dfee028c56396be2913777d57f291dc86ffcae3222a1c1b74e06e2e998e4d4
+Section: Tweaks
+Depiction: https://stst77.github.io/stst.repo/
+Name: Little11
+
 Package: com.tigisoftware.filza
 Version: 3.9.0-2
 Architecture: iphoneos-arm
