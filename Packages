@@ -1,3 +1,16 @@
+Package: me.alfhaily.rocket
+Version: 3.7.32
+Architecture: iphoneos-arm
+Maintainer: stst
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Size:9492
+MD5sum:95ca6cc55480f44e3a1297eea8a69c11
+SHA1:5ee02234949af1e53513a5e378a4c1072d28c972
+SHA256:21f692579d8ed77aec89ecb38b7220876683f4a8f357ee1a96551db33b30b125
+Section: Tweaks
+Depiction: https://x7mii.vip/index.php?method=view&pid=1314
+Name: Rocket for Instagram
+
 Package: x7mii.vip.shuffle
 Version: 1.5.9
 Architecture: iphoneos-arm
