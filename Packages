@@ -1,3 +1,16 @@
+Package: com.azmilaila.istore
+Version: 5.5
+Architecture: iphoneos-arm
+Maintainer: @X1lyy <bojory111@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Size:1460
+MD5sum:cc8eb1c169e13d204251d81d0bd750f9
+SHA1:86679587bd69e59fe6f755cfe4cf250b9f4b2bca
+SHA256:69728f19178451e260f0ac0e146716b4ed5ee923571d1fb5a87bef2c08cf9765
+Section: Tweaks
+Depiction:https://stst77.github.io/stst.repo/
+Name:iStore ¬ª
+
 Package: me.alfhaily.rocket
 Version: 3.7.32
 Architecture: iphoneos-arm
