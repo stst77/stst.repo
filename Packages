@@ -1,20 +1,16 @@
-new Debian package, version 2.0.
- size 2416296 bytes: control archive=317 bytes.
-     282 bytes,    11 lines      control              
- Package: iOSGods.com.VSCO
- Name: VSCO Cheats
- MD5sum:1bf471017988ddf1443120b2099c18c0
-SHA1:02521d07943f8f8adf95c573eff72b724d1755b3
-SHA256:dfcffb75934bd95f658a72dadaa0336a9691141f941c92abd44a99db171586a5
+Package: iOSGods.com.VSCO
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
 Depends: mobilesubstrate
- Architecture: iphoneos-arm
- Description: VSCO iGMM Cheats by Laxus for iOSGods.com!
- Maintainer: iOSGods.com
- Author: Laxus
- Section: Tweaks
- Homepage: https://iosgods.com
- Version: 215+iOSGods.com
- Installed-Size: 9344
+Filename: /var/mobile/Downloads/Packages
+Size: 9344
+MD5sum: 1bf471017988ddf1443120b2099c18c0
+SHA1: 02521d07943f8f8adf95c573eff72b724d1755b3
+SHA256: dfcffb75934bd95f658a72dadaa0336a9691141f941c92abd44a99db171586a5
+Section: Tweaks
+Depiction: VSCO iGMM Cheats by Laxus for iOSGods.com!
+Name: VSCO
 
 Package: com.azmilaila.istore
 Version: 5.5
