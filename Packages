@@ -1,3 +1,12 @@
+Package: x7mii.vip.darque
+Version: 1.6
+Section: Themes
+Maintainer: @stst <stst@admin.com>
+SileoDepiction: https://x7mii.vip/sileo.php?pid=383
+Architecture: iphoneos-arm
+Name: Darque
+Author: @stst <stst@admin.com>
+Sponsor: @stst <Repo_stst>
 Package: iOSGods.com.VSCO
 Name: VSCO Cheats
 Depends: mobilesubstrate
