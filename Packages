@@ -7,6 +7,7 @@ Architecture: iphoneos-arm
 Name: Darque
 Author: @stst <stst@admin.com>
 Sponsor: @stst <Repo_stst>
+
 Package: iOSGods.com.VSCO
 Name: VSCO Cheats
 Depends: mobilesubstrate
